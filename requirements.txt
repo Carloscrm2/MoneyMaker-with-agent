@@ -1,0 +1,8 @@
+langchain
+streamlit
+bs4
+html2text
+openai
+tiktoken
+faiss-cpu
+chromadb
